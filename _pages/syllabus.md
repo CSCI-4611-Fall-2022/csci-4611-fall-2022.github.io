@@ -5,9 +5,21 @@ title: "Syllabus"
 
 <!-- TOC -->
 
-- [Course Overview](course-overview)
-- [Learning Objectives](learning-objectives)
-
+- [Course Overview](#course-overview)
+- [Learning Objectives](#learning-objectives)
+- [Prerequisites](#prerequisites)
+- [Course Structure and Modality](#course-structure-and-modality)
+- [COVID-19 Policies](#covid-19-policies)
+- [Textbook](#textbook)
+- [Assignments](#assignments)
+- [Quizzes](#quizzes)
+- [Grading](#grading)
+- [Flexible Late Policy](#flexible-late-policy)
+- [Standard Policies](#standard-policies)
+- [Academic Integrity](#academic-integrity)
+- [Inclusive Conduct](#inclusive-conduct)
+- [Mental Health Information](#mental-health-information)
+- [Disability Information](#disability-information)
 
 <!-- /TOC -->
 
@@ -42,9 +54,9 @@ You should stay at home if you experience any signs of illness or have a positiv
 
 **Vaccines:** COVID-19 Vaccinations (or approved exemptions) are required for all students and employees. Learn about vaccine and booster appointments on campus by visiting the [Get the Vax](https://safe-campus.umn.edu/return-campus/get-the-vax) page. 
 
-**Face Coverings:** The University expects all community members to respect those who choose to wear a mask, as well as those who choose not to wear one. I do not intend to wear a mask in class myself, and I fully support your individual choices around masking.  Indoor masking continues to be an important tool in high risk situations. High-quality masks (N-95 or certified KN-95) will be available to students Fall 2022. Note that these policies are subject to change, and up-to-date information is available on the [Safe Campus ](https://safe-campus.umn.edu/return-campus/covid-19-prevention-and-wellbeing)page. 
-
 **Testing:** Information on testing is available on [MTest](https://safe-campus.umn.edu/return-campus/mtest) webpage. 
+
+**Face Coverings:** The University expects all community members to respect those who choose to wear a mask, as well as those who choose not to wear one. I do not intend to wear a mask in class myself, and I fully support your individual choices around masking.  Indoor masking continues to be an important tool in high risk situations. High-quality masks (N-95 or certified KN-95) will be available to students Fall 2022. Note that these policies are subject to change, and up-to-date information is available on the [Safe Campus ](https://safe-campus.umn.edu/return-campus/covid-19-prevention-and-wellbeing)page. 
 
 ## Textbook
 
@@ -122,11 +134,11 @@ This class follows standard university policies. It's your responsibility to be 
 
 First, please review the [Departmental Policy on Academic Dishonesty](https://drive.google.com/file/d/1T4-q7RmeY7I5MokRxaIsi0vje8XTIFZZ/view); this is a little more specific than the university-wide policy above. How this applies to this class specifically:
 
-**Collaboration Policy**
+#### Collaboration Policy
 
 All work submitted for this course is required to be your original work. You are expected to do your own thinking, your own design, and your own coding. You are encouraged to discuss the content of the lectures and the texts with your peers. With respect to programming assignments, you are also permitted to discuss and make posts about programming in general (e.g., a syntax error you are stuck on, missing include file). However, your communication with others must stop before discussing a solution to the homework or assignment. If you have any question about whether discussing something with peers might go beyond what is permitted, then stop and ask us first for clarification on the policy.
 
-**Use of Web and External Resources**
+####  Use of Web and External Resources
 
 The web will be one of your best learning tools and sources of documentation for working with TypeScript and computer graphics toolkits used in the class, but you are not allowed to use web or other external resources to find solutions to the core computer graphics problems in your assignments.
 
@@ -134,11 +146,11 @@ The web will be one of your best learning tools and sources of documentation for
 
 ***What you cannot do:*** You are not allowed to search for solutions to assignments. For example, if your assignment is to develop your own texture mapping routine for a sphere, you can lookup the API documentation to learn the right function to call and the right syntax to use to set the texture coordinate for each vertex in a mesh. What you cannot do is google for “texture map a sphere” and find out how to setup a for loop and use cos() and sin() equations to determine the correct texture coordinates for each vertex of the sphere. This is the difference between using the web as a programming toolkit reference vs. using the web as a reference for the computer graphics algorithms/solutions that are being taught in the course. With the exception of the small snippets of code that are found in the official language or API documentation, you should never copy code like a routine, class, object, etc. from a website and include it in an assignment or project. 
 
-**Third-Party Art Assets**
+#### Third-Party Art Assets
 
 Although it is not required to complete assignments in the course, some students may want to include additional art assets (e.g., 3D models, images, sounds) in their programs. You are permitted to use third-party assets from the web, with the following requirements: (1) the content does not include any code, and (2) the content is cited in a readme file.
 
-**Consequences of Academic Dishonesty**
+#### Consequences of Academic Dishonesty
 
 Academic dishonesty in this class will result in a 0 on the assignment or exam in question for the first offense, and an automatic F in the class for the second offense. All cases of academic dishonesty are required to be reported to the University Office for Community Standards.
 
