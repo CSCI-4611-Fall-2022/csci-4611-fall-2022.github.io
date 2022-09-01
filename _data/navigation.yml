@@ -1,9 +1,25 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Github"
+    url: https://github.com/CSCI-4611-Fall-2022
+
+side:
+  - title: Getting Help
+    children:
+        - title: Office Hours
+          url: /office-hours/
+        - title: Slack
+          url: https://csci4611.slack.com
+        - title: Piazza
+          url: TBD
+  - title: Resources
+    children:
+      - title: Canvas
+        url: https://canvas.umn.edu/courses/333005
+      - title: Textbook
+        url: https://www.realtimerendering.com/
+      - title: TypeScript
+        url: https://www.typescriptlang.org/docs/
