@@ -15,6 +15,7 @@ title: "Syllabus"
 - [Quizzes](#quizzes)
 - [Grading](#grading)
 - [Flexible Late Policy](#flexible-late-policy)
+- [Wait List Policy](#wait-list-policy)
 - [Standard Policies](#standard-policies)
 - [Academic Integrity](#academic-integrity)
 - [Inclusive Conduct](#inclusive-conduct)
@@ -70,7 +71,7 @@ Each assignment will be introduced at the beginning of a two-week module and is 
 
 ## Quizzes
 
-This class will be 
+To be added.
 
 ## Grading
 
@@ -117,6 +118,10 @@ Your current late points will be visible in Canvas and will be updated when your
 **Is there a penalty if I run out of late points and submit an assignment after the deadline?**  If you use all your late points, we will grade the assignment with a late penalty of 5% for each day it is late.
 
 **If I don't use all my late points by the end of the semester, will I receive bonus points?** No. The late points are meant to increase equity for students that are disadvantaged in this course. If they were redeemable for bonus points, then this would effectively penalize the students who need extensions for legitimate reasons beyond their control. If this seems unfair to you, then please consider this explanation from the National Association of Colleges of Employers: *The term "equity" refers to fairness and justice and is distinguished from equality: Whereas equality means providing the same to all, equity means recognizing that we do not all start from the same place and must acknowledge and make adjustments to imbalances.* 
+
+## Wait List Policy
+
+To be added.
 
 ## Standard Policies
 
