@@ -1,6 +1,7 @@
 ---
 permalink: /syllabus/
 title: "Syllabus"
+classes: wide
 ---
 
 <!-- TOC -->
@@ -47,7 +48,9 @@ The course is divided into six modules, each of which lasts two weeks.  Generall
 
 During the second week of each module, we will often have a second lecture on more advanced concepts, followed by another live programming class.  However, the exact schedule may vary based on the content we need to cover.  You can check the [course schedule](/schedule) page for the most up-to-date information about upcoming classes. 
 
-I intend to hold all class sessions **in-person**.  The class will not be live streamed except if situational factors arise, such as personal illness, in which case the class may be held synchronously via Zoom.   However, I recognize that in-person attendance is not always possible or practical.  Furthermore, many students have given me positive feedback about having access to lecture recordings when working on assignments.  Therefore, all classes will be **recorded**, and the videos will be made available on the course website shortly after the end of each class.
+I intend to hold all class sessions **in-person**.  The class will not be live streamed except if situational factors arise, such as personal illness, in which case the class may be held synchronously via Zoom.   However, I recognize that in-person attendance is not always possible or practical.  Furthermore, many students have given me positive feedback about having access to lecture recordings when working on assignments.  Therefore, all classes will be **recorded**, and the videos will be made available on the course website.  Note that you do not need to contact me in advance if you have to miss a class; just make sure to watch the video as soon as you can, so you don't fall behind.
+
+
 
 ## COVID-19 Policies
 
@@ -61,24 +64,24 @@ You should stay at home if you experience any signs of illness or have a positiv
 
 ## Textbook
 
-To be added.
+[Real-Time Rendering: Fourth Edition](https://www.realtimerendering.com/) is the required textbook for this course.  You can purchase it through the University bookstore, although you may find lower-cost alternatives through online retailers.  If you are interested in renting a digital copy of the textbook, [Amazon](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) appears to have the lowest price at the time of writing this syllabus.
 
-## Assignments
+## Assignments and Quizzes
 
-There will be a total of six assignments in this class. Although they are challenging, they are also the most exciting and rewarding aspect of the course (and your chance to impress your friends with some cool 3D graphics). Your goal in these assignments should be to come away with a great practical understanding of how to tackle new computer graphics programming challenges using the modern programming toolkits.
+There will be a total of six programming assignments in this class. Although they are challenging, they are also the most exciting and rewarding aspect of the course (and your chance to impress your friends with some cool 3D graphics). Your goal in these assignments should be to come away with a great practical understanding of how to tackle new computer graphics programming challenges using the modern programming toolkits.
 
-Each assignment will be introduced at the beginning of a two-week module and is broken into two separate submissions. At the end of the first week, you'll submit an assignment **Worksheet**. This covers the key mathematical or algorithmic concepts in the assignment. Then, at the end of the second week, you'll submit the **Program**. Always start with the worksheet, seek help from TAs as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
+Each assignment will be introduced at the beginning of a two-week module. At the end of the first week, you will complete the **Quiz**. This will review the key mathematical or algorithmic concepts in the assignment.  Quizzes will be administered **online** and are **open book**.  They will need to be completed before the deadline, but they otherwise have no time limit, and you have flexibility in choosing when to take it.  Note that the quizzes are designed to get you thinking about the assignment early, so it is generally a good idea to complete them before starting work on the program.
 
-## Quizzes
+At the end of the second week, you will submit the **Program**. If you strugged with the quiz, then seek help from TAs as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
 
-To be added.
+## Exams
+
+The quizzes and programming assignments are the only forms of assessment in this course.  There will not be a midterm or final exam.
 
 ## Grading
 
 Final course grades will be calculated based upon the following percentages.
-
-- Worksheets - 10%
-- Programs - 50%
+- Programs - 60%
 - Quizzes - 40%
 
 The grading in this course is on an absolute scale. This means that the performance of others in the class will not affect your grade. Letter grades will be assigned using the following scale:
@@ -109,19 +112,36 @@ Your current late points will be visible in Canvas and will be updated when your
 
 #### Frequently Asked Questions
 
-**Do I have to tell you when I want to use my late points?** No, we will apply credit automatically. I understand that things happen, and everyone probably needs a day or two here and there, so just take them automatically if you need them. It's fine as long as you don't take so many up front that you fall terribly behind.
+*Do I have to tell you when I want to use my late points?*  
+No, we will apply credit automatically. I understand that things happen, and everyone probably needs a day or two here and there, so just take them automatically if you need them. It's fine as long as you don't take so many up front that you fall terribly behind.
 
-**Do these apply to the worksheets as well as the program portions of the assignments?** These only apply to the programs. The worksheets are worth significantly less and are very lightly graded, so you should plan to just complete those on time whenever possible. They are quick and will at least get you thinking about the assignment early.
+*Do these apply to the quizzes as well as the programming assignments?*  
+These only apply to the programs. The quizzes are much shorter and worth less than the programming assignments, so you should plan to complete them by the deadline. They can be completed anytime within the first week of the module, so you would need a very convincing justification for an additional extension.
 
-**What if I get really sick or something and need an extension beyond this?** That is possible in rare circumstances, but you need to talk with me about this situation. You can expect that the first thing I will ask is: How have you used the late points that I have already given you? That's quite a lot already, and are more really justified in this case?
+*What if I get really sick or something and need an extension beyond this?*  
+That is possible in rare circumstances, but you need to talk with me about this situation. You can expect that the first thing I will ask is: How have you used the late points that I have already given you? That's quite a lot already, and are more really justified in this case?
 
-**Is there a penalty if I run out of late points and submit an assignment after the deadline?**  If you use all your late points, we will grade the assignment with a late penalty of 5% for each day it is late.
+*Is there a penalty if I run out of late points and submit an assignment after the deadline?*  
+If you use all your late points, we will grade the assignment with a late penalty of 5% for each day it is late.
 
-**If I don't use all my late points by the end of the semester, will I receive bonus points?** No. The late points are meant to increase equity for students that are disadvantaged in this course. If they were redeemable for bonus points, then this would effectively penalize the students who need extensions for legitimate reasons beyond their control. If this seems unfair to you, then please consider this explanation from the National Association of Colleges of Employers: *The term "equity" refers to fairness and justice and is distinguished from equality: Whereas equality means providing the same to all, equity means recognizing that we do not all start from the same place and must acknowledge and make adjustments to imbalances.* 
+*If I don't use all my late points by the end of the semester, will I receive bonus points?*  
+No. The late points are meant to increase equity for students that are disadvantaged in this course. If they were redeemable for bonus points, then this would effectively penalize the students who need extensions for legitimate reasons beyond their control. If this seems unfair to you, then please consider this explanation from the National Association of Colleges of Employers: *The term "equity" refers to fairness and justice and is distinguished from equality: Whereas equality means providing the same to all, equity means recognizing that we do not all start from the same place and must acknowledge and make adjustments to imbalances.* 
 
 ## Wait List Policy
 
-To be added.
+I am aware that this course is in high-demand and there are many students on the wait list.  I receive a large number of permission number requests, and unfortunately it is simply not possible to accommodate everyone.  Please note that this class is taught every semester.  Therefore, as a general policy, I am **only** issuing permission numbers for graduating seniors or students with another convincing justification for taking the class right now.  If you believe that this describes your situation, then please feel free to contact me.
+
+#### Frequently Asked Questions
+
+*I am currently on the wait list.  Do I need to attend the first day of class?*  
+All lectures will be recorded, so you will be able to watch the videos for any classes you miss if you are admitted late.  You do **not** need to attend the first day of class if you are on the wait list.
+
+*What are my chances of getting into this course on the wait list?*  
+The wait list is controlled by the registrar, and I do not have much visibility into how fast it moves.  What I can tell you is that historically speaking, this is a popular course, and so the drop rate tends to be fairly low.
+
+*What would you consider to be a convincing justification for skipping the wait list?*  
+In addition to graduating seniors, I have issued permission numbers for students that were starting research projects or summer internships involving computer graphics or video games.  In these cases, the class provided a direct benefit that would help them be successful, and taking it in a future semester would have been to late for that specific opportunity.
+
 
 ## Standard Policies
 
