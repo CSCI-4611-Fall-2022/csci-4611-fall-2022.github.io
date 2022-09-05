@@ -4,4 +4,4 @@ title: "Schedule"
 classes: wide
 ---
 
-The course schedule will be updated shortly.
+The course schedule will be updated soon.
