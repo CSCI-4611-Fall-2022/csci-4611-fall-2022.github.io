@@ -33,10 +33,10 @@ Computer graphics is an exciting field within computer science that has seen dra
 
 In this course, you will learn to:
 - Understand basic concepts and algorithms relevant to computer graphics programming.
-- Identify, define, and solve 2D and 3D graphics programming problems.
-- Program real-time computer graphics using a high-level scene graph library.
+- Identify, define, and solve involving 2D and 3D computer graphics.
+- Implement real-time computer graphics using a high-level scene graph library.
 - Write shader programs that run on the graphics processing unit (GPU).
-- Implement user interfaces for interaction with 3D graphics applications.
+- Implement user interfaces for interacting with 3D graphics applications.
 
 ## Prerequisites
 
