@@ -11,10 +11,10 @@ side:
     children:
         - title: Office Hours
           url: /office-hours/
-        - title: Slack
-          url: https://csci4611.slack.com
         - title: Piazza
           url: https://piazza.com/umn/fall2022/csci4611
+        - title: Slack
+          url: https://csci4611.slack.com
   - title: Resources
     children:
       - title: Canvas
@@ -23,3 +23,7 @@ side:
         url: https://www.realtimerendering.com/
       - title: TypeScript
         url: https://www.typescriptlang.org/docs/
+      - title: VS Code
+        url: https://code.visualstudio.com/
+      - title: Node.js
+        url: https://nodejs.org/
