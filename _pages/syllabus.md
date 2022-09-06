@@ -72,7 +72,7 @@ There will be a total of six programming assignments in this class. Although the
 
 Each assignment will be introduced at the beginning of a two-week module. At the end of the first week, you will complete the **Quiz**. This will review the key mathematical or algorithmic concepts in the assignment.  Quizzes will be administered **online** and are **open book**.  They will need to be completed before the deadline, but they otherwise have no time limit, and you have flexibility in choosing when to take it.  Note that the quizzes are designed to get you thinking about the assignment early, so it is generally a good idea to complete them before starting work on the program.
 
-At the end of the second week, you will submit the **Program**. If you strugged with the quiz, then seek help from TAs as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
+At the end of the second week, you will submit the **Program**. If you struggled with the quiz, then seek help from TAs as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
 
 ## Exams
 
