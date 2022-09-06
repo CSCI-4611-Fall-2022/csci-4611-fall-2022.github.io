@@ -14,7 +14,7 @@ side:
         - title: Piazza
           url: https://piazza.com/umn/fall2022/csci4611
         - title: Slack
-          url: https://csci4611.slack.com
+          url: https://csci4611.slack.com/signup
   - title: Resources
     children:
       - title: Canvas
