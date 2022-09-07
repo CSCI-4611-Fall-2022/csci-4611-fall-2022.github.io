@@ -10,4 +10,6 @@ classes: wide
 | ![](/images/bridger.png){:width="100px"} || **Bridger Herman** <br> Graduate TA <br> *he/him* |
 | ![](/images/yanai.png){:width="100px"} || **Yanai Sun** <br> Undergraduate TA <br> *she/her* |
 
-The calendar for office hours will be added soon.
+<br>
+
+Please use [Calendly](https://calendly.com/csci-4611/office-hours) to book an appointment for office hours.
