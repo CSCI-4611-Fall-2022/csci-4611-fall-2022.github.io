@@ -8,8 +8,8 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ## Module 0: Introduction to Computer Graphics
 
-| 9/6/22 || Lecture 1: Introduction to Computer Graphics | [slides](https://www.beautiful.ai/player/-NBJKctKr7e-IYmNNMdv) | [pdf](/files/CSCI 4611 Lecture 1 - Introduction to Computer Graphics.pdf) | [video](https://mediaspace.umn.edu/media/t/1_0z984db5) |
-| 9/8/22 || Lecture 2: Anatomy of a Graphics Program |
+| 9/6/22 || Lecture 1: Introduction to Computer Graphics | [video](https://mediaspace.umn.edu/media/t/1_0z984db5) | [slides](https://www.beautiful.ai/player/-NBJKctKr7e-IYmNNMdv) | [pdf](/files/CSCI 4611 Lecture 1 - Introduction to Computer Graphics.pdf) |
+| 9/8/22 || Lecture 2: Anatomy of a Graphics Program | [video](https://mediaspace.umn.edu/media/t/1_wpvnlxfz)  | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-2) |
 
 ## Module 1: Interactive 2D Graphics
 
