@@ -14,7 +14,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 ## Module 1: Interactive 2D Graphics
 
 ||| *Reading: Real-Time Rendering, Ch. 1-2* |
-| 9/13/22 || Lecture 3: Computer Graphics Basics |
+| 9/13/22 || Lecture 3: Computer Graphics Basics | [video](https://mediaspace.umn.edu/media/t/1_gpg0wfui) | [slides](https://www.beautiful.ai/player/-NBsysA0tQPnjes4pmNu) | [pdf](/files/CSCI 4611 Lecture 3 - Computer Graphics Basics.pdf) |
 | 9/15/22 || Lecture 4: Graphics Programming in 2D |
 | 9/19/22 || **Quiz 1 Due** |
 | 9/20/22 || Lecture 5: Points and Vectors |
