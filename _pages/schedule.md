@@ -15,7 +15,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ||| *Reading: Real-Time Rendering, Ch. 1-2* |
 | 9/13/22 || Lecture 3: Computer Graphics Basics | [video](https://mediaspace.umn.edu/media/t/1_gpg0wfui) | [slides](https://www.beautiful.ai/player/-NBsysA0tQPnjes4pmNu) | [pdf](/files/CSCI 4611 Lecture 3 - Computer Graphics Basics.pdf) |
-| 9/15/22 || Lecture 4: 2D Graphics Programming (Part 1) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-4) |
+| 9/15/22 || Lecture 4: 2D Graphics Programming (Part 1) | [video](https://mediaspace.umn.edu/media/t/1_qm6hrsb2) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-4) |
 | 9/19/22 || **Quiz 1 Due** |
 | 9/20/22 || Lecture 5: Essential Graphics Math |
 | 9/22/22 || Lecture 6: 2D Graphics Programming (Part 2) |
