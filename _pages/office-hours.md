@@ -10,6 +10,12 @@ classes: wide
 | ![](/images/bridger.jpg){:width="100px"} || **Bridger Herman** <br> Graduate TA <br> *he/him* |
 | ![](/images/yanai.jpg){:width="100px"} || **Yanai Sun** <br> Undergraduate TA <br> *she/her* |
 
-<br>
+#### Group Study Session
 
-Please use [Calendly](https://calendly.com/csci-4611/office-hours) to book an appointment for office hours.
+Each week, Frank will hold a 2-hour group study session on **Thursday from 5:30-7:30pm** in Keller 2-209.  They will go over some of the theory behind what is taught, and will be available to answer questions or go into further detail.  These sessions are open to all, and you do not need to schedule an appointment in advance.
+
+
+#### Individual Meetings
+
+Please use [Calendly](https://calendly.com/csci-4611) to schedule individual meetings during office hours.
+
