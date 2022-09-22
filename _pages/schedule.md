@@ -18,7 +18,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 9/15/22 || Lecture 4: 2D Graphics Programming (Part 1) | [video](https://mediaspace.umn.edu/media/t/1_qm6hrsb2) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-4) |
 | 9/19/22 || **Quiz 1 Due** |
 | 9/20/22 || Lecture 5: Essential Graphics Math | [video](https://mediaspace.umn.edu/media/t/1_9yn1g9ty) | [slides](https://www.beautiful.ai/player/-NCS2TFulnZJgFhAXV5o) | [pdf](/files/CSCI 4611 Lecture 5 - Essential Graphics Math.pdf) |
-| 9/22/22 || Lecture 6: 2D Graphics Programming (Part 2) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-6) |
+| 9/22/22 || Lecture 6: 2D Graphics Programming (Part 2) | [video](https://mediaspace.umn.edu/media/t/1_xbujs6ph) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-6) |
 | 9/26/22 || **Assignment 1 Due** |
 
 ## Module 2: Interactive 3D Graphics
