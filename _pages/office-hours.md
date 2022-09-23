@@ -17,5 +17,5 @@ Each week, Frank will hold a 2-hour group study session on **Thursday from 5:30-
 
 #### Individual Meetings
 
-Please use [Calendly](https://calendly.com/csci-4611) to schedule individual meetings during office hours.
+Please use the [online appointment system](https://csci4611.youcanbook.me) to schedule an individual meeting during office hours.
 
