@@ -19,15 +19,15 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 9/19/22 || **Quiz 1 Due** |
 | 9/20/22 || Lecture 5: Essential Graphics Math | [video](https://mediaspace.umn.edu/media/t/1_9yn1g9ty) | [slides](https://www.beautiful.ai/player/-NCS2TFulnZJgFhAXV5o) | [pdf](/files/CSCI 4611 Lecture 5 - Essential Graphics Math.pdf) |
 | 9/22/22 || Lecture 6: 2D Graphics Programming (Part 2) | [video](https://mediaspace.umn.edu/media/t/1_xbujs6ph) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-6) |
-| 9/26/22 || **Assignment 1 Due** |
+| 9/27/22 || **Assignment 1 Due** |
 
 ## Module 2: Interactive 3D Graphics
 
-||| *Reading: Real-Time Rendering, Ch. 4* |
-| 9/27/22 || Lecture 7: Geometric Transformations |
+||| *Reading: Real-Time Rendering, Ch. 4.1-4.3, 22.1-22.3* |
+| 9/27/22 || Lecture 7: 3D Transformations and Physical Simulation | [slides](https://www.beautiful.ai/player/-ND-aoR176XAYDP16VHX) | [pdf](/files/CSCI 4611 Lecture 7 - 3D Transformations and Physical Simulation.pdf)
 | 9/29/22 || Lecture 8: 3D Graphics Programming (Part 1) |
 | 10/3/22 || **Quiz 2 Due** |
-| 10/4/22 || Lecture 9: Physical Simulation |
+| 10/4/22 || Lecture 9: Homogeneous Coordinates |
 | 10/6/22 || Lecture 10: 3D Graphics Programming (Part 2) |
 | 10/10/22 || **Assignment 2 Due** |
 
