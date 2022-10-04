@@ -27,7 +27,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 9/27/22 || Lecture 7: 3D Transformations and Physical Simulation | [video](https://mediaspace.umn.edu/media/t/1_oypaec6i) | [slides](https://www.beautiful.ai/player/-ND-aoR176XAYDP16VHX) | [pdf](/files/CSCI 4611 Lecture 7 - 3D Transformations and Physical Simulation.pdf)
 | 9/29/22 || Lecture 8: 3D Graphics Programming (Part 1) | [video](https://mediaspace.umn.edu/media/t/1_7on1bfra) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-8) |
 | 10/3/22 || **Quiz 2 Due** |
-| 10/4/22 || Lecture 9: Homogeneous Coordinates | [slides](https://www.beautiful.ai/player/-NDZPI5tdJZahHEbjpm0) | [pdf](/files/CSCI 4611 Lecture 9 - Homogeneous Coordinates.pdf) |
+| 10/4/22 || Lecture 9: Homogeneous Coordinates | [video](https://mediaspace.umn.edu/media/t/1_18e43588) | [slides](https://www.beautiful.ai/player/-NDZPI5tdJZahHEbjpm0) | [pdf](/files/CSCI 4611 Lecture 9 - Homogeneous Coordinates.pdf) |
 | 10/6/22 || Lecture 10: 3D Graphics Programming (Part 2) |
 | 10/10/22 || **Assignment 2 Due** |
 
