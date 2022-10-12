@@ -34,7 +34,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 ## Module 3: Meshes, Textures, and Morphing
 
 ||| *Reading: Real-Time Rendering, Ch. 16.1-16.4, 6.1-6.2, 4.5* |
-| 10/11/22 || Lecture 11: 3D Polygonal Modeling | [slides](https://www.beautiful.ai/player/-NE6OXU0n-7Ota-roRYF) | [pdf](/files/CSCI 4611 Lecture 11 - 3D Polygonal Modeling.pdf) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-11) |
+| 10/11/22 || Lecture 11: 3D Polygonal Modeling | [video](https://mediaspace.umn.edu/media/t/1_9d6a0xuu) | [slides](https://www.beautiful.ai/player/-NE6OXU0n-7Ota-roRYF) | [pdf](/files/CSCI 4611 Lecture 11 - 3D Polygonal Modeling.pdf) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-11) |
 | 10/13/22 || Lecture 12: Texture Mapping |
 | 10/17/22 || **Quiz 3 Due** |
 | 10/18/22 || Lecture 13: Linear Interpolation |
