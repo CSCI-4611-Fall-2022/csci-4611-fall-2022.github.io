@@ -38,7 +38,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 10/13/22 || Lecture 12: Texture Mapping | [video](https://mediaspace.umn.edu/media/t/1_82059j95) | [slides](https://www.beautiful.ai/player/-NE6P-1MIenWSTYKfNeo) | [pdf](/files/CSCI%204611%20Lecture%2012%20-%20Texture%20Mapping.pdf) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-12) |
 | 10/17/22 || **Quiz 3 Due** |
 | 10/18/22 || Lecture 13: Tessellation and Morphing | [video](https://mediaspace.umn.edu/media/t/1_dsf0x8bi) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-13) |
-| 10/20/22 || Lecture 14: Linear and Spherical Interpolation |
+| 10/20/22 || Lecture 14: Morphing and Animation | [video](https://mediaspace.umn.edu/media/t/1_ahbg0jh5) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-14) |
 | 10/24/22 || **Assignment 3 Due** |
 
 ## Module 4: Character Animation and Hierarchy
