@@ -43,12 +43,12 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ## Module 4: Character Animation and Hierarchy
 
-||| *Reading: TBD* |
-| 10/25/22 || Lecture 15 |
-| 10/27/22 || Lecture 16 |
+||| *Reading: None* |
+| 10/25/22 || Lecture 15: Scene Hierarchy | [slides](https://www.beautiful.ai/player/-NFFL_CXMNeiyhHhxBdq) | [pdf](/files/CSCI%204611%20Lecture%2015%20-%20Scene%20Hierarchy.pdf) |
+| 10/27/22 || Lecture 16: Programming Hierarchical Transformations |
 | 10/31/22 || **Quiz 4 Due** |
-| 11/1/22 || Lecture 17 |
-| 11/3/22 || Lecture 18 |
+| 11/1/22 || Lecture 17: Animation and Inverse Kinematics |
+| 11/3/22 || Lecture 18: Keyframing and Splines |
 | 11/7/22 || **Assignment 4 Due** |
 
 ## Module 5: Lighting and Shader Programs
