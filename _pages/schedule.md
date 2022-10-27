@@ -45,7 +45,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ||| *Reading: None* |
 | 10/25/22 || Lecture 15: Scene Hierarchy | [video](https://mediaspace.umn.edu/media/t/1_fa07wt7g) | [slides](https://www.beautiful.ai/player/-NFFL_CXMNeiyhHhxBdq) | [pdf](/files/CSCI%204611%20Lecture%2015%20-%20Scene%20Hierarchy.pdf) |
-| 10/27/22 || Lecture 16: Programming Hierarchical Transformations |
+| 10/27/22 || Lecture 16: Programming Hierarchical Transformations | [video](https://mediaspace.umn.edu/media/t/1_y1t69ezv) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-16) | 
 | 10/31/22 || **Quiz 4 Due** |
 | 11/1/22 || Lecture 17: Animation and Inverse Kinematics |
 | 11/3/22 || Lecture 18: Keyframing and Splines |
