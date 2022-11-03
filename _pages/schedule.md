@@ -48,7 +48,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 10/27/22 || Lecture 16: Programming Hierarchical Transformations | [video](https://mediaspace.umn.edu/media/t/1_y1t69ezv) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-16) | 
 | 10/31/22 || **Quiz 4 Due** |
 | 11/1/22 || Lecture 17: Animation and Inverse Kinematics | [video](https://mediaspace.umn.edu/media/t/1_5ye8sk1r) | [slides](https://www.beautiful.ai/player/-NFszlphoo4V8goV9fru) | [pdf](/files/CSCI%204611%20Lecture%2017%20-%20Animation%20and%20Inverse%20Kinematics.pdf) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-17) |
-| 11/3/22 || Lecture 18: Keyframing and Splines |
+| 11/3/22 || Lecture 18: Keyframing and Splines | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-18) |
 | 11/7/22 || **Assignment 4 Due** |
 
 ## Module 5: Lighting and Shader Programs
