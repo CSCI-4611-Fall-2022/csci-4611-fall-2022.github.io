@@ -56,7 +56,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ||| *Reading: Real-Time Rendering, Ch. 5.1-5.3 (Shading Basics), 6.7 (Bump Mapping), 15.1 (Toon Shading), 15.2 (Outline Rendering)* |
 ||| *Additional Resources: [Learn OpenGL (Normal Mapping)](https://learnopengl.com/Advanced-Lighting/Normal-Mapping#:~:text=Advanced%2DLighting%2FNormal%2DMapping)* |
-| 11/8/22 || Lecture 19: Lighting and Shading | [slides](https://www.beautiful.ai/player/-NGO8LaG6ArK5rspluvt) | [pdf](/files/CSCI%204611%20Lecture%2019%20-%20Lighting%20and%20Shading.pdf) |
+| 11/8/22 || Lecture 19: Lighting and Shading | [video](https://mediaspace.umn.edu/media/t/1_4r8xyztd) | [slides](https://www.beautiful.ai/player/-NGO8LaG6ArK5rspluvt) | [pdf](/files/CSCI%204611%20Lecture%2019%20-%20Lighting%20and%20Shading.pdf) |
 | 11/10/22 || Lecture 20: Graphics Pipeline and Shaders |
 | 11/14/22 || **Quiz 5 Due** |
 | 11/15/22 || Lecture 21: Shader Programming (Part 1) |
