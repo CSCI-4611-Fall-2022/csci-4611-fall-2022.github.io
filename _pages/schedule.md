@@ -43,7 +43,8 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ## Module 4: Character Animation and Hierarchy
 
-||| *Reading: [WebGL Fundamentals](https://webglfundamentals.org/webgl/lessons/webgl-scene-graph.html), [Learn OpenGL](https://learnopengl.com/Guest-Articles/2021/Scene/Scene-Graph)* |
+||| *Reading: None* |
+||| *Additional Resources: [WebGL Fundamentals](https://webglfundamentals.org/webgl/lessons/webgl-scene-graph.html), [Learn OpenGL](https://learnopengl.com/Guest-Articles/2021/Scene/Scene-Graph)* |
 | 10/25/22 || Lecture 15: Scene Hierarchy | [video](https://mediaspace.umn.edu/media/t/1_fa07wt7g) | [slides](https://www.beautiful.ai/player/-NFFL_CXMNeiyhHhxBdq) | [pdf](/files/CSCI%204611%20Lecture%2015%20-%20Scene%20Hierarchy.pdf) |
 | 10/27/22 || Lecture 16: Programming Hierarchical Transformations | [video](https://mediaspace.umn.edu/media/t/1_y1t69ezv) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-16) | 
 | 10/31/22 || **Quiz 4 Due** |
@@ -53,12 +54,13 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ## Module 5: Lighting and Shader Programs
 
-||| *Reading: TBD* |
-| 11/8/22 || Lecture 19 |
-| 11/10/22 || Lecture 20 |
+||| *Reading: Real-Time Rendering, Ch. 5.1-5.3 (Shading Basics), 6.7 (Bump Mapping), 15.1 (Toon Shading), 15.2 (Outline Rendering)* |
+||| *Additional Resources: [Learn OpenGL (Normal Mapping)](https://learnopengl.com/Advanced-Lighting/Normal-Mapping#:~:text=Advanced%2DLighting%2FNormal%2DMapping)* |
+| 11/8/22 || Lecture 19: Lighting and Shading | [slides](https://www.beautiful.ai/player/-NGO8LaG6ArK5rspluvt) | [pdf](/files/CSCI%204611%20Lecture%2019%20-%20Lighting%20and%20Shading.pdf) |
+| 11/10/22 || Lecture 20: Graphics Pipeline and Shaders |
 | 11/14/22 || **Quiz 5 Due** |
-| 11/15/22 || Lecture 21 |
-| 11/17/22 || Lecture 22 |
+| 11/15/22 || Lecture 21: Shader Programming (Part 1) |
+| 11/17/22 || Lecture 22: Shader Programming (Part 2) |
 | 11/21/22 || **Assignment 5 Due** |
 
 ## Intermission
