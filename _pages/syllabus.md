@@ -129,7 +129,7 @@ No. The late points are meant to increase equity for students that are disadvant
 
 ## Wait List Policy
 
-I am aware that this course is in high-demand and there are many students on the wait list.  I receive a large number of permission number requests, and unfortunately it is simply not possible to accommodate everyone.  Please note that this class is taught every semester.  Therefore, as a general policy, I am **only** issuing permission numbers for graduating seniors or students with another convincing justification for taking the class right now.  If you believe that this describes your situation, then please feel free to contact me.
+I am aware that this course is in high-demand and there are many students on the wait list.  I receive a large number of permission number requests, and unfortunately it is simply not possible to accommodate everyone.  Please note that this class is taught every semester.  Therefore, as a general policy, I am **only** issuing permission numbers for graduating seniors in computer science or other students with another convincing justification for taking the class right now. If you believe that this describes your situation, then please feel free to contact me.
 
 #### Frequently Asked Questions
 
@@ -142,6 +142,8 @@ The wait list is controlled by the registrar, and I do not have much visibility 
 *What would you consider to be a convincing justification for skipping the wait list?*  
 In addition to graduating seniors, I have issued permission numbers for students that were starting research projects or summer internships involving computer graphics or video games.  In these cases, the class provided a direct benefit that would help them be successful, and taking it in a future semester would have been to late for that specific opportunity.
 
+*I am not a computer science major, but I would still like to take this course. What are my chances of getting in?*  
+Unfortunately, this is highly unlikely. Many computer science majors have been waiting patiently for multiple semesters for an opportunity to take this course before they graduate. Permission numbers will only be issued for students in other programs in rare circumstances.
 
 ## Standard Policies
 
