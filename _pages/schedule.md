@@ -60,8 +60,8 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 11/10/22 || Lecture 20: Graphics Pipeline and Shaders | [video](https://mediaspace.umn.edu/media/t/1_dslmp7cn) | [slides](https://www.beautiful.ai/player/-NGY9WhnSJQ-6y5w_jDu) | [pdf](/files/CSCI%204611%20Lecture%2020%20-%C2%A0Graphics%20Pipeline%20and%20Shaders.pdf) |
 | 11/14/22 || **Quiz 5 Due** |
 | 11/15/22 || Lecture 21: Shader Programming (Part 1) | [video](https://mediaspace.umn.edu/media/t/1_4qul82xm) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-21) |
-| 11/17/22 || Lecture 22: Shader Programming (Part 2) |
-| 11/21/22 || **Assignment 5 Due** |
+| 11/17/22 || Lecture 22: Shader Programming (Part 2) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-22) |
+| 11/23/22 || **Assignment 5 Due** |
 
 ## Intermission
 
