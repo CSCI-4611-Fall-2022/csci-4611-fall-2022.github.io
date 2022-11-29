@@ -71,12 +71,12 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ## Module 6: Cameras, Rays, and 3D Interfaces
 
-||| *Reading: TBD* |
-| 11/29/22 || Lecture 23 |
-| 12/1/22 || Lecture 24 |
+||| *Reading: Real-Time Rendering, Ch. 4.7 (Projections), Ch 22.5-22.9 (Ray Intersection Tests)* |
+| 11/29/22 || Lecture 23: Projection and Camera Models | [slides](https://www.beautiful.ai/player/-NI4GIZpXerXG-hGPGHu) | [pdf]() |
+| 12/1/22 || Lecture 24: Ray Casting |
 | 12/5/22 || **Quiz 6 Due** |
-| 12/6/22 || Lecture 25 |
-| 12/8/22 || Lecture 26 |
+| 12/6/22 || Lecture 25: Ray Casting for 3D Interaction (Part 1) |
+| 12/8/22 || Lecture 26: Ray Casting for 3D Interaction (Part 2) |
 | 12/12/22 || **Assignment 6 Due** |
 
 ## Wrap-Up and Review
