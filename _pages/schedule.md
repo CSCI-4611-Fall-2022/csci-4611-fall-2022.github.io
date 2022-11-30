@@ -72,7 +72,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 ## Module 6: Cameras, Rays, and 3D Interfaces
 
 ||| *Reading: Real-Time Rendering, Ch. 4.7 (Projections), Ch 22.5-22.9 (Ray Intersection Tests)* |
-| 11/29/22 || Lecture 23: Projection and Camera Models | [slides](https://www.beautiful.ai/player/-NI4GIZpXerXG-hGPGHu) | [pdf]() |
+| 11/29/22 || Lecture 23: Projection and Camera Models | [video](https://mediaspace.umn.edu/media/t/1_y5vg1lk6) | [slides](https://www.beautiful.ai/player/-NI4GIZpXerXG-hGPGHu) | [pdf](/files/CSCI%204611%20Lecture%2023%20-%C2%A0Projection%20and%20Camera%20Models%20-%202022-11-29%2015.24.35.pdf) |
 | 12/1/22 || Lecture 24: Ray Casting |
 | 12/5/22 || **Quiz 6 Due** |
 | 12/6/22 || Lecture 25: Ray Casting for 3D Interaction (Part 1) |
