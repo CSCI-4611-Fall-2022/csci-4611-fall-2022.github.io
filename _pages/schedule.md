@@ -76,7 +76,7 @@ The most up-to-date schedule can always be found here, along with links to all p
 | 12/1/22 || Lecture 24: Ray Casting | [video](https://mediaspace.umn.edu/media/t/1_bc9cg22h) | [slides](https://www.beautiful.ai/player/-NIEDWJAMWYRwDNOXMYl) | [pdf](/files/CSCI%204611%20Lecture%2024%20-%20Ray%20Casting.pdf) |
 | 12/5/22 || **Quiz 6 Due** |
 | 12/6/22 || Lecture 25: Ray Casting for 3D Interaction | [video](https://mediaspace.umn.edu/media/t/1_3rakdz9k) | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-25) |
-| 12/8/22 || Lecture 26: Projection |
+| 12/8/22 || Lecture 26: Projection | [code](https://github.com/CSCI-4611-Fall-2022/Lecture-26) |
 | 12/12/22 || **Assignment 6 Due** |
 
 ## Wrap-Up and Review
