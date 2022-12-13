@@ -81,4 +81,4 @@ The most up-to-date schedule can always be found here, along with links to all p
 
 ## Wrap-Up and Review
 
-| 12/13/22 || Last Day of Class |
+| 12/13/22 || Lecture 27: Wrap Up | [video](https://mediaspace.umn.edu/media/t/1_b7n651hd) | [slides](https://www.beautiful.ai/player/-NJCoI4J7nvByUjLSikF) | [pdf](/files/CSCI%204611%20Lecture%2027%20-%20Wrap%20Up.pdf) |
